@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.214cda4d.css",
+    "main.js": "/static/js/main.45f02520.js",
+    "static/js/787.c139c5eb.chunk.js": "/static/js/787.c139c5eb.chunk.js",
+    "static/media/slidde.jpg": "/static/media/slidde.058ce2f09f9af69f4bc7.jpg",
+    "static/media/banner.jpg": "/static/media/banner.aa514cbc4497130f97e8.jpg",
+    "static/media/edureka-business.png": "/static/media/edureka-business.0e6f272ad7e72c948234.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.214cda4d.css.map": "/static/css/main.214cda4d.css.map",
+    "main.45f02520.js.map": "/static/js/main.45f02520.js.map",
+    "787.c139c5eb.chunk.js.map": "/static/js/787.c139c5eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.214cda4d.css",
+    "static/js/main.45f02520.js"
+  ]
+}
